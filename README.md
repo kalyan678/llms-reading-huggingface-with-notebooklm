@@ -1,2 +1,5 @@
-# notebooklm-huggingface-assistant
-Explored how Google NotebookLM answers questions using Hugging Face model cards as sources. Compared models like FLAN-T5, GPT-2, and DistilBERT by asking ethical, technical, and controversial questions to analyze strengths, risks, and limitations based only on documentation.
+# LLMs Reading LLMs: Exploring Hugging Face Models with NotebookLM
+
+This project explores how Google’s NotebookLM, an AI-powered research assistant, can be used to interactively question and analyze model documentation from Hugging Face’s Transformers library.
+
+I uploaded multiple model cards (such as FLAN-T5, DistilBERT, and GPT-2) into NotebookLM and asked it a series of technical, comparative, and ethical questions. This unique setup allows us to evaluate how a document-grounded LLM assistant interprets real-world model documentation without hallucination.
