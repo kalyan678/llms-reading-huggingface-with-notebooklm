@@ -1,6 +1,6 @@
 # LLMs Reading LLMs: Exploring Hugging Face Models with NotebookLM
 
-This project explores how Google’s NotebookLM, an AI-powered research assistant, can be used to interactively question and analyze model documentation from Hugging Face’s Transformers library.
+This project explores how [Google’s NotebookLM](https://notebooklm.google.com/notebook/e5fc39aa-6d61-428f-b2be-951efd083175), an AI-powered research assistant, can be used to interactively question and analyze model documentation from Hugging Face’s Transformers library.
 
 I uploaded multiple model cards (such as FLAN-T5, DistilBERT, and GPT-2) into NotebookLM and asked it a series of technical, comparative, and ethical questions. This unique setup allows us to evaluate how a document-grounded LLM assistant interprets real-world model documentation without hallucination.
 
@@ -33,13 +33,13 @@ I uploaded multiple model cards (such as FLAN-T5, DistilBERT, and GPT-2) into No
 > Why can’t NotebookLM give details about GPT-4.1?  
 > Based on source docs, which model is safer for factual tasks?
 
-All prompts are categorized in [`prompts.txt`](./NotebookLM_Prompts.txt).
+All prompts are categorized in the [`Notebooklm_prompts.txt`](./Notebooklm_prompts.txt) file.
 
 ---
 
 ## Screenshots
 
-See the `/screenshots/` folder for examples of NotebookLM's responses.
+Examples of NotebookLM's responses can be found in the `screenshots/` folder.
 
 ---
 
@@ -52,7 +52,7 @@ See the `/screenshots/` folder for examples of NotebookLM's responses.
 ---
 
 ## Folder Structure
-
+```
 llms-reading-llms/
 ├── README.md
 ├── LICENSE
@@ -63,3 +63,5 @@ llms-reading-llms/
 ├── screenshots/
 │ ├── summary-response.png
 │ ├── comparison-question.png
+
+```
