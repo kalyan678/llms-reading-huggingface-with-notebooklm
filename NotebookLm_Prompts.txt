@@ -1,0 +1,16 @@
+# Model Comparison Prompts
+- Compare FLAN-T5 and GPT-2 for summarization.
+- Can FLAN-T5 outperform GPT-2 on summarization tasks?
+- Why might a developer still choose BERT over newer models like FLAN-T5?
+
+# Fine Tuning Models
+- Give me a step-by-step plan to fine-tune DistilBERT
+
+# Model Evaluation
+- Compare the hallucination risks in GPT-2 vs. FLAN-T5.
+
+# Model Selection & Deployment Decisions
+- Why did Hugging Face include GPT-2 despite its known risks?
+
+# Meta & Limitations
+- Why can't NotebookLM give me details about GPT-4.1?
