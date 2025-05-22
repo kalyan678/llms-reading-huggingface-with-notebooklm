@@ -28,10 +28,14 @@ I uploaded multiple model cards (such as FLAN-T5, DistilBERT, and GPT-2) into No
 
 ## Sample Prompts
 
-> Why did Hugging Face include GPT-2 despite known risks?
->  Compare hallucination risks in GPT-2 vs FLAN-T5.
-> Why can’t NotebookLM give details about GPT-4.1?
-> Based on source docs, which model is safer for factual tasks?
+> Why did Hugging Face include GPT-2 despite its known risks?
+
+> Compare hallucination risks in GPT-2 vs. FLAN-T5. Which model is safer for factual generation?
+
+> Why can’t NotebookLM provide details about GPT-4.1?
+
+> Based solely on the uploaded source documents, which model is more reliable for factual tasks?
+
 
 All prompts are categorized in the [NotebookLm_Prompts.txt](./NotebookLm_Prompts.txt) file.
 
