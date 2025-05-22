@@ -28,18 +28,25 @@ I uploaded multiple model cards (such as FLAN-T5, DistilBERT, and GPT-2) into No
 
 ## Sample Prompts
 
-> Why did Hugging Face include GPT-2 despite known risks?  
-> Compare hallucination risks in GPT-2 vs FLAN-T5.  
-> Why can’t NotebookLM give details about GPT-4.1?  
+> Why did Hugging Face include GPT-2 despite known risks?
+>  Compare hallucination risks in GPT-2 vs FLAN-T5.
+> Why can’t NotebookLM give details about GPT-4.1?
 > Based on source docs, which model is safer for factual tasks?
 
-All prompts are categorized in the [`Notebooklm_prompts.txt`](./Notebooklm_prompts.txt) file.
+All prompts are categorized in the [NotebookLm_Prompts.txt](./NotebookLm_Prompts.txt) file.
 
 ---
 
 ## Screenshots
 
-Examples of NotebookLM's responses can be found in the `screenshots/` folder.
+## 📸 Screenshots
+
+### Summary Response Example
+![Summary Response](https://github.com/kalyan678/llms-reading-huggingface-with-notebooklm/raw/main/Screenshot_1.png)
+
+### Hallucination Prompt Result
+![Hallucination Prompt](https://github.com/kalyan678/llms-reading-huggingface-with-notebooklm/raw/main/Screenshot_3.png)
+
 
 ---
 
