@@ -30,7 +30,7 @@ I uploaded multiple model cards (such as FLAN-T5, DistilBERT, and GPT-2) into No
 
 > Why did Hugging Face include GPT-2 despite its known risks?
 
-> Compare hallucination risks in GPT-2 vs. FLAN-T5. Which model is safer for factual generation?
+> Why might a developer still choose BERT over newer models like FLAN-T5?
 
 > Why can’t NotebookLM provide details about GPT-4.1?
 
