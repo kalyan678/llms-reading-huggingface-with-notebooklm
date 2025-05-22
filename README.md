@@ -39,8 +39,6 @@ All prompts are categorized in the [NotebookLm_Prompts.txt](./NotebookLm_Prompts
 
 ## Screenshots
 
-## 📸 Screenshots
-
 ### Summary Response Example
 ![Summary Response](https://github.com/kalyan678/llms-reading-huggingface-with-notebooklm/raw/main/Screenshot_1.png)
 
